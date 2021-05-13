@@ -8,4 +8,4 @@
 5. Реализация Optional - [описание](Optional.md/), [код](Optional.cpp/)
 6. Реализация алгоритма Гаусса - [описание](Algorithm_Gauss.md/), [код](Algorithm_Gauss.cpp/)
 7. Реализация HashMap - [описание](HashMap.md/), [код](HashMap.cpp/)
-8. Метод наименьших квадратов - [описание](LeastSquares.md/), [код](LeastSquares.cpp/)
+8. Метод наименьших квадратов - [описание](LeastSquares.md/), [код](LeastSquares.py/)

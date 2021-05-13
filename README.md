@@ -7,3 +7,4 @@
 4. Реализация класса многочлен - [описание](Polynomial.md/), [код](Polynomial.cpp/)
 5. Реализация Optional - [описание](Optional.md/), [код](Optional.cpp/)
 6. Реализация алгоритма Гаусса - [описание](Algorithm_Gauss.md/), [код](Algorithm_Gauss.cpp/)
+7. Реализация HashMap - [описание](HashMap.md/), [код](HashMap.cpp/)

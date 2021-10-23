@@ -1,11 +1,11 @@
 # Описание
 
 В этом репозитории содержатся примеры моего кода:
-1. Realization of vector - [описание](vector.md/), [код](vector.cpp/)
-2. Realization of UniquePtr - [описание](UniquePtr.md/), [код](UniquePtr.cpp/)
-3. Realization of list - [описание](List.md/), [код](List.cpp/)
-4. Реализация класса многочлен - [описание](Polynomial.md/), [код](Polynomial.cpp/)
-5. Realization of Optional - [описание](Optional.md/), [код](Optional.cpp/)
-6. Realization of Gauth algorithm - [описание](Algorithm_Gauss.md/), [код](Algorithm_Gauss.cpp/)
-7. Realization of HashMap - [описание](HashMap.md/), [код](HashMap.cpp/)
-8. ML - [описание](LeastSquares.md/), [код](LeastSquares.py/)
+1. Realization of vector - [description](vector.md/), [code](vector.cpp/)
+2. Realization of UniquePtr - [description](UniquePtr.md/), [code](UniquePtr.cpp/)
+3. Realization of list - [description](List.md/), [code](List.cpp/)
+4. Realization Polynomial class - [description](Polynomial.md/), [code](Polynomial.cpp/)
+5. Realization of Optional - [description](Optional.md/), [code](Optional.cpp/)
+6. Realization of Gauth algorithm - [description](Algorithm_Gauss.md/), [code](Algorithm_Gauss.cpp/)
+7. Realization of HashMap - [description](HashMap.md/), [code](HashMap.cpp/)
+8. ML(LeastSquares) - [описание](LeastSquares.md/), [code](LeastSquares.py/)

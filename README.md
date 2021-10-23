@@ -1,6 +1,6 @@
 # Description
 
-There is example of my code in this repository:
+There are examples of my code in this repository:
 1. Realization of vector - [description](vector.md/), [code](vector.cpp/)
 2. Realization of UniquePtr - [description](UniquePtr.md/), [code](UniquePtr.cpp/)
 3. Realization of list - [description](List.md/), [code](List.cpp/)

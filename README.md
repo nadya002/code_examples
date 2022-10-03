@@ -1,7 +1,7 @@
 # Description
 
 There are examples of my code in this repository:
-1. Background noise removing system - [project](../Project_HSE)
+1. Background noise removing system - [project](.../Project_HSE)
 2. Realization of vector - [description](vector.md/), [code](vector.cpp/)
 3. Realization of UniquePtr - [description](UniquePtr.md/), [code](UniquePtr.cpp/)
 4. Realization of SharedPtr - [description](SharedPtr.md/), [code](SharedPtr.cpp/)
